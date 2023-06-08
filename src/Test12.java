@@ -1,3 +1,6 @@
+/* change()메서드 매개변수 x 타입이 기본자료형 int이어서 값에 의한 전달
+ */
+
 class Data12{
 	 int x;
 	
