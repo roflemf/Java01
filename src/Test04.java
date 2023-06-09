@@ -10,6 +10,8 @@ import java.util.Scanner;
  * 	  다. 전달인자 순서를 다르게 한다.
  *  
  */
+
+//전달인자 타입(자료형)을 다르게 한 메서드 오버로딩
 class Mt04{
 	int abs(int data) {
 		if(data<0)
